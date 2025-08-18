@@ -1,0 +1,18 @@
+body{
+    background-color:aliceblue;
+
+}
+p{
+    color:cornflowerblue;
+}
+#SegParr{
+    background-color: black;
+}
+
+.centrado{ 
+    text-align: center;
+}
+
+.negrita{
+    font-weight: bolder;
+}
