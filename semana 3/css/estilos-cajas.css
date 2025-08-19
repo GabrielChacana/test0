@@ -1,0 +1,20 @@
+*{                          /*Para quitar bordes blancos el * es comodecir todos*/
+    margin: 0;
+    padding: 0;
+}
+
+
+div{
+    width: 400px;
+    height: 200px;
+
+    background-color: #AFB42B;
+    border: #FF5722 solid 10px;
+
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+
+.centrado{
+    text-align: center;
+}
