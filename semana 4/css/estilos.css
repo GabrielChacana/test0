@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+}
+
+.container-fluid{
+    background-color: aliceblue;
+}
+
+.row{
+    height: 33vh;
+}
+
+footer{
+    height: 34vh;
+}
+
+#dos{background-color: blue;}
+#tres{background-color: aquamarine;}
+#cuatro{background-color: beige;}
+#seis{background-color: black;}
+
+#cinco{background-color: blueviolet;}
+#cinco:hover{background-color: darkblue;}
